@@ -13,3 +13,9 @@ This project simulates an FP&A forecasting and scenario analysis workflow for Ta
 - Base-case forecast for 2025 using explicit growth and margin assumptions
 - Scenario analysis to evaluate upside and downside risk
 - Executive insight summary highlighting business implications
+
+- ## How to Use This Repo
+1) View the historical dataset in docs/data/
+2) Read forecast & scenario assumptions in docs/
+3) See scenario outputs in docs/scenario_outputs.md
+4) Read executive insights in docs/executive_insights.md
